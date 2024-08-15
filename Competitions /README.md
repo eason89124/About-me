@@ -52,6 +52,23 @@
 
 <br><br>
 
+## Cyber Apocalypse 2024: Hacker Royale
+日期 : 2024/03/09 - 2024/03/13
+
+隊名 : ISLAB@NTUT
+
+![68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f486b766849553354612e706e67](https://github.com/user-attachments/assets/63f0ee36-ea0e-4c73-96ab-74a415220f0c)
+
+
+<br><br>
+
+## AIS3 EOF CTF 2024
+初賽: 2024/01/05 - 2024/01/07
+
+![image](https://github.com/user-attachments/assets/31fd8b69-7a46-4b62-9ba1-56a9f88c8e2c)
+
+<br><br>
+
 ## 2023 CGGC 網路守護者挑戰賽-- Cyber Guardian Grand Challenge
 初賽 : 2023.12.1 - 2023.12.2
 
