@@ -1,9 +1,35 @@
+## 資安院8月線上攻防平台實作課程
+日期 : 2024.08.30
+
+地點：線上進行
+
+![image](https://github.com/user-attachments/assets/ec3dc39c-81b1-4036-a072-164309eea9a0)
+
+
+<br><br>
+
 ## HITCON CMT 2024
 日期 : 2024.08.23 - 2024.08.24
 
 地點：中央研究院- 人文社會館
 
 ![448081079_869284385240192_2311981669854180133_n](https://github.com/user-attachments/assets/0c01ca1a-8fe2-47ff-9027-be734cc42fd6)
+
+<br><br>
+
+## AIS3 2024 新型態資安實務暑期課程
+
+
+日期 : 2024.07.29 - 2024.08.04
+
+地點 ： 陽明交通大學
+
+組別 : C 組 - 進階資安攻防競技
+
+![image](https://github.com/user-attachments/assets/cd60a6d2-3b4b-4608-aed8-b0779df4e8fe)
+
+![image](https://github.com/user-attachments/assets/c568b4a4-fde1-4ebe-85fb-795b8133c33a)
+
 
 <br><br>
 
