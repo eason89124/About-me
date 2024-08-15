@@ -1,3 +1,10 @@
+## 神盾盃—資安競賽 
+初賽日期 : 2024.9.14
+
+![image](https://github.com/user-attachments/assets/056f8061-097b-4a46-8a59-4f14fa1460cc)
+
+<br><br>
+
 ## Secure Code Warrior - 線上資安戰士挑戰賽
 日期 : 2024.06.14 - 2024.06.17
 
@@ -6,6 +13,7 @@
 ![image](https://github.com/user-attachments/assets/60111426-f0a8-4221-ba6c-1b5afd28be38)
 
 <br><br>
+
 ## AIS3 Pre-exam 2024
 日期 : 2024.05.25 - 2024.05.27
 
