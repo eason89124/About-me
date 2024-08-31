@@ -4,6 +4,7 @@
 地點：張榮發國際會議中心 601會議廳 (台北市中正區中山南路11號6樓)
 
 ![image](https://github.com/user-attachments/assets/d19629f4-1604-44a2-9b48-d53dc6b2ed65)
+![185959](https://github.com/user-attachments/assets/95e67ea8-49ed-4d43-b256-729a6277c1f7)
 
 
 <br><br>
